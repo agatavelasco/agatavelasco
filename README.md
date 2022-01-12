@@ -1,5 +1,7 @@
 ## Olá! Eu sou a Ágata Velasco 🐱
 
+Aqui publico meus estudos, ideias e projetos.
+
 - 👩🏻‍💻 Desenvolvedora Front-End
 - 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas - UFMS
 
