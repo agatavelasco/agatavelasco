@@ -2,7 +2,7 @@
 
 Aqui publico meus estudos, ideias e projetos.
 
-- 👩🏻‍💻 Desenvolvedora Front-End
+- 👩🏻‍💻 Desenvolvedora  de Software
 - 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas - UFMS
 
 ##
