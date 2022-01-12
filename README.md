@@ -1,9 +1,14 @@
 ## Olá! Eu sou a Ágata Velasco 🐱
 
+- 👩🏻‍💻 Desenvolvedora Front-End
+- 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas - UFMS
+
+##
+
 <div>
   <a href="https://github.com/agatavelasco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agatavelasco&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agatavelasco&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agatavelasco&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agatavelasco&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
 <div style="display: inline_block"><br>
