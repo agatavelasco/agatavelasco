@@ -3,7 +3,6 @@
 Aqui publico meus estudos, ideias e projetos.
 
 - 👩🏻‍💻 Desenvolvedora  de Software
-- 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas - UFMS
 
 ##
 
